@@ -1,2 +1,2 @@
 # RemoteRepo
-This is the new Repoasitory.
+This is the new Repository.
